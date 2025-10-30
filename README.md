@@ -6,5 +6,6 @@ Mapping US city census SNAP data by SNAP participation percent of households in 
 *2024 is the last published census SNAP data as of OCT 2025*
 
 [Download Prebuilt KML Map File](/snap_output/snap_principal_cities_2024.kml)
+[Download Prebuilt GeoJson Map File](/snap_output/snap_principal_cities_2024.geojson)
 
 ![SNAP Map](/SNAP_Map.jpg)
