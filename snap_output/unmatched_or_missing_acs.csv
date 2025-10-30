@@ -1,0 +1,312 @@
+CITY,STATE_ABBR,GEOID
+Aguadilla,PR,7200745
+Albany,OR,4101000
+Troy,NY,3675484
+Alexandria,LA,2200975
+Altoona,PA,4202184
+Amherst Town,MA,2501370
+Northampton,MA,2546330
+Anniston,AL,0101852
+Oxford,AL,0157576
+Arecibo,PR,7203368
+Dunwoody,GA,1324768
+Marietta,GA,1349756
+Atlantic City,NJ,3402080
+Hammonton,NJ,3429430
+Opelika,AL,0157048
+Delano,CA,0618394
+Towson,MD,2478425
+Bangor,ME,2302795
+Barnstable Town,MA,2503690
+Battle Creek,MI,2605920
+Bay City,MI,2606020
+Port Arthur,TX,4858820
+Beckley,WV,5405332
+Binghamton,NY,3606607
+Blacksburg,VA,5107784
+Christiansburg,VA,5116608
+Radford,VA,5165392
+Bozeman,MT,3008950
+Bremerton,WA,5307695
+Port Orchard,WA,5355785
+Silverdale,WA,4270744
+Brunswick,GA,1311560
+St. Simons,GA,1368040
+Burlington,NC,3709060
+Burlington,VT,5010675
+South Burlington,VT,5066175
+Massillon,OH,3948244
+Cape Girardeau,MO,2911242
+Carson City,NV,3209700
+Casper,WY,5613150
+Chambersburg,PA,4212536
+Urbana,IL,1777005
+Charleston,WV,5414600
+Mooresville,NC,3744220
+Charlottesville,VA,5114968
+Des Plaines,IL,1719642
+Downers Grove,IL,1720591
+Cleveland,TN,4715400
+Coeur d'Alene,ID,1616750
+Columbus,IN,1814734
+Corvallis,OR,4115800
+Crestview,FL,1215475
+Destin,FL,1217325
+Fort Walton Beach,FL,1224475
+Grapevine,TX,4830644
+Dalton,GA,1321380
+Daphne,AL,0119648
+Fairhope,AL,0125240
+Foley,AL,0126992
+Gulf Shores,AL,0132272
+Moline,IL,1749867
+Rock Island,IL,1765078
+Beavercreek,OH,3904720
+Kettering,OH,3940040
+Decatur,AL,0120104
+DeLand,FL,1216875
+Ormond Beach,FL,1253150
+Pontiac,MI,2665440
+Dover,DE,1021200
+Dubuque,IA,1922395
+Chapel Hill,NC,3711800
+Eagle Pass,TX,4821892
+El Centro,CA,0621782
+Elizabethtown,KY,2124274
+Elkhart,IN,1820728
+Goshen,IN,1828386
+Elmira,NY,3624229
+Enid,OK,4023950
+Springfield,OR,4169600
+College,AK,0216750
+Fairbanks,AK,0224230
+Farmington,NM,3525800
+Bentonville,AR,0505320
+Florence,SC,4525810
+Florence,AL,0126896
+Muscle Shoals,AL,0153016
+Fond du Lac,WI,5526275
+Gadsden,AL,0128696
+Gainesville,GA,1331908
+Gettysburg,PA,4228960
+Glens Falls,NY,3629333
+Goldsboro,NC,3726880
+Grand Forks,ND,3832060
+Grand Island,NE,3119595
+Kentwood,MI,2642820
+Grants Pass,OR,4130550
+Great Falls,MT,3032800
+Anderson,SC,4501360
+Greer,SC,4530985
+Mauldin,SC,4545115
+Guayama,PR,7232221
+Biloxi,MS,2806220
+Hagerstown,MD,2436075
+Martinsburg,WV,5452060
+Hammond,LA,2232755
+Corcoran,CA,0616224
+Hanford,CA,0631960
+Carlisle,PA,4211272
+Harrisburg,PA,4232800
+Harrisonburg,VA,5135624
+East Hartford,CT,0922700
+Middletown,CT,0947290
+West Hartford,CT,0982660
+Hattiesburg,MS,2831020
+Helena,MT,3035600
+Hickory,NC,3731060
+Lenoir,NC,3737760
+Morganton,NC,3744400
+Beaufort,SC,4504690
+Bluffton,SC,4507210
+Hilton Head Island,SC,4534045
+Port Royal,SC,4558030
+Hinesville,GA,1338964
+Homosassa Springs,FL,1232400
+Hot Springs,AR,0533400
+Bayou Cane,LA,2205210
+Houma,LA,2236255
+Thibodaux,LA,2275425
+Galveston,TX,4828068
+Texas City,TX,4872392
+Ashland,KY,2102368
+Huntington,WV,5439460
+Anderson,IN,1801468
+Ithaca,NY,3638077
+Jackson,MI,2641420
+Beloit,WI,5506500
+Jefferson City,MO,2937000
+Johnstown,PA,4238288
+Joplin,MO,2937592
+Kahului,HI,1522700
+Wailuku,HI,1577450
+Portage,MI,2665560
+Kankakee,IL,1738934
+Lenexa,KS,2039350
+Richland,WA,5358235
+Bristol,TN,4708540
+Kingsport,TN,4739560
+Kingston,NY,3639727
+Kiryas Joel,NY,3639853
+Newburgh,NY,3650034
+Poughkeepsie,NY,3659641
+Woodbury,NY,3682750
+Kokomo,IN,1840392
+La Crosse,WI,5540775
+Onalaska,WI,5559925
+West Lafayette,IN,1882862
+Kingman,AZ,0437620
+Lake Havasu City,AZ,0439370
+Winter Haven,FL,1278275
+Lancaster,PA,4241216
+East Lansing,MI,2624120
+Lebanon,PA,4242168
+Lewiston,ID,1646540
+Auburn,ME,2302060
+Lewiston,ME,2338740
+Lexington Park,MD,2446725
+Lima,OH,3943554
+North Little Rock,AR,0550450
+Logan,UT,4945860
+Kelso,WA,5335065
+Longview,WA,5340245
+Arcadia,CA,0602462
+Cypress,CA,0617750
+Fountain Valley,CA,0625380
+Gardena,CA,0628168
+Manhattan,KS,2044250
+Mankato,MN,2739878
+Mansfield,OH,3947138
+Mayagüez,PR,7252431
+Jupiter,FL,1235875
+Kendall,FL,5539150
+Palm Beach Gardens,FL,1254075
+La Porte,IN,1842246
+Michigan City,IN,1848798
+Midland,MI,2653780
+Waukesha,WI,5584275
+Burnsville,MN,2708794
+Eden Prairie,MN,2718116
+Edina,MN,2718188
+Minnetonka,MN,2743252
+St. Louis Park,MN,2757220
+Minot,ND,3853380
+Monroe,LA,2251410
+Monroe,MI,2655020
+Morgantown,WV,5455756
+Morristown,TN,4750280
+Anacortes,WA,5301990
+Mount Vernon,WA,5347560
+Muskegon,MI,2656320
+Norton Shores,MI,2659140
+Conway,SC,4516405
+Myrtle Beach,SC,4549075
+North Myrtle Beach,SC,4551280
+Marco Island,FL,1243083
+Naples,FL,1247625
+Smyrna,TN,4769420
+New Brunswick,NJ,3451210
+White Plains,NY,3681677
+Niles,MI,2657760
+Bradenton,FL,1207950
+Lakewood Ranch,FL,1239067
+Sarasota,FL,1264175
+Venice,FL,1273900
+New London,CT,0952280
+Norwich,CT,0956200
+Willimantic,CT,0985810
+Lacey,WA,5336745
+Olympia,WA,5351300
+Tumwater,WA,5372905
+Neenah,WI,5555750
+Owensboro,KY,2158620
+Paducah,KY,2158836
+Titusville,FL,1271900
+Panama City,FL,1254700
+Panama City Beach,FL,1254725
+Parkersburg,WV,5462140
+Vienna,WV,5483500
+Brent,FL,0109136
+Ferry Pass,FL,1222275
+Pensacola,FL,1255925
+Pinehurst,NC,3751940
+Southern Pines,NC,3763120
+Pittsfield,MA,2553960
+Pocatello,ID,1664090
+South Portland,ME,2371990
+Tigard,OR,4173650
+Prescott,AZ,0457380
+Prescott Valley,AZ,0457450
+Punta Gorda,FL,1259200
+Mount Pleasant,WI,5554875
+Palm Desert,CA,0655184
+Rocky Mount,NC,3757500
+Rome,GA,1366668
+West Sacramento,CA,0684816
+Saginaw,MI,2670520
+Salisbury,MD,2469925
+Murray,UT,4953230
+Encinitas,CA,0622678
+Sandusky,OH,3970380
+San Rafael,CA,0668364
+South San Francisco,CA,0673262
+Cupertino,CA,0617610
+San Juan,PR,4865516
+El Paso de Robles (Paso Robles),CA,0622300
+San Luis Obispo,CA,0668154
+Santa Cruz,CA,0669112
+Watsonville,CA,0683668
+Petaluma,CA,0656784
+Wilkes-Barre,PA,4285152
+Lakewood,WA,5338038
+Sebastian,FL,1264825
+Vero Beach,FL,1274150
+West Vero Corridor,FL,1276937
+Sebring,FL,1264875
+Sheboygan,WI,5572975
+Denison,TX,4819900
+Sherman,TX,4867496
+Bossier City,LA,2208920
+Douglas,AZ,0420050
+Sierra Vista,AZ,0466820
+Covington,LA,2218125
+Mandeville,LA,2248225
+Slidell,LA,2270805
+Mishawaka,IN,1849932
+Spartanburg,SC,4568290
+Springfield,OH,3974118
+State College,PA,4273808
+Staunton,VA,5175216
+Stuarts Draft,VA,5176272
+Sumter,SC,4570405
+Pinellas Park,FL,1256975
+Terre Haute,IN,1875428
+Texarkana,TX,4872368
+Traverse City,MI,2680340
+Princeton,NJ,3460900
+Twin Falls,ID,1682810
+Rome,NY,3663418
+Utica,NY,3676540
+Valdosta,GA,1378800
+Vineland,NJ,3476070
+Walla Walla,WA,5375775
+Bethesda,MD,3906138
+North Bethesda,MD,2456337
+McLean,VA,5148376
+Shelton,CT,0968100
+Cedar Falls,IA,1911755
+Fort Drum,NY,3626759
+Watertown,NY,3678608
+Wausau,WI,5584475
+Steubenville,OH,3974608
+Weirton,WV,5485156
+East Wenatchee,WA,5320155
+Wenatchee,WA,5377105
+Wheeling,WV,5486452
+Wildwood,FL,1277675
+Williamsport,PA,4285312
+Winchester,VA,5186720
+Hanover,PA,4232448
+York,PA,4287048
+Warren,OH,3980892
+Youngstown,OH,3988000
