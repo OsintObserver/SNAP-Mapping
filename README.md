@@ -1,7 +1,7 @@
 
 # Mapping Latest Published SNAP Cencus Data
 
-Mapping US city census SNAP data by SNAP partipication of cities percent per household
+Mapping US city census SNAP data by SNAP participation of cities percent per household
 
 *2024 is the last published census SNAP data as of OCT 2025*
 
